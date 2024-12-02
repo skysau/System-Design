@@ -76,6 +76,8 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 
 ### [Read the Full Article](https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem)
 
+## WebSocket
+- [WebSocket](https://docs.google.com/document/d/1Xe6HE5_XClHuaJVEQsKv_oFhVNvxWJgpl3lJv3hA3pI/edit?usp=sharing)
 ## 💻 System Design Interview Problems
 ### Easy
 - [Design URL Shortener like TinyURL](https://blog.algomaster.io/p/design-a-url-shortener)
