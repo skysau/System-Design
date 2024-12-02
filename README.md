@@ -95,8 +95,10 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 
 - [Design Spotify](https://docs.google.com/document/d/1PTk8zGOCvklf5ev7fdPBFJGn5b1_2nP8vKjkeVMj76s/edit?usp=sharing)
 
-- [Design Distributed Job Scheduler](https://blog.algomaster.io/p/design-a-distributed-job-scheduler)
-- [Design a Scalable Notification Service](https://blog.algomaster.io/p/design-a-scalable-notification-service)
+- [Design Distributed Job Scheduler](https://docs.google.com/document/d/1QoKGhQmG3aakGznAA3uDa_g9hV5pSV1NLcetlvHJCNs/edit?usp=sharing)
+
+- [Design a Scalable Notification Service](https://docs.google.com/document/d/1lmzgojyaTNK1f_hA7hlX4cYrroI-PG3BsIIaZYJviyY/edit?usp=sharing)
+
 - [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 - [Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
 - [Design Facebook](https://www.youtube.com/watch?v=9-hjBGxuiEs)
