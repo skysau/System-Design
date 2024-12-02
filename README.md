@@ -80,7 +80,8 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [WebSocket](https://docs.google.com/document/d/1Xe6HE5_XClHuaJVEQsKv_oFhVNvxWJgpl3lJv3hA3pI/edit?usp=sharing)
 ## 💻 System Design Interview Problems
 ### Easy
-- [Design URL Shortener like TinyURL](https://blog.algomaster.io/p/design-a-url-shortener)
+- [Design URL Shortener like TinyURL](https://docs.google.com/document/d/1LCM0r4HRUzvfvVQfUDCixWtFAYU8BNttGdqmkreU8rk/edit?usp=sharing)
+
 - [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
 - [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 - [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
