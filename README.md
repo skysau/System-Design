@@ -92,7 +92,9 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
 ### Medium
 - [Design WhatsApp](https://docs.google.com/document/d/12x0G8--FhgQeS10L1ez7fbnEYiqTnFv5vC5_aCOmEhc/edit?usp=sharing)
-- [Design Spotify](https://blog.algomaster.io/p/design-spotify-system-design-interview)
+
+- [Design Spotify](https://docs.google.com/document/d/1PTk8zGOCvklf5ev7fdPBFJGn5b1_2nP8vKjkeVMj76s/edit?usp=sharing)
+
 - [Design Distributed Job Scheduler](https://blog.algomaster.io/p/design-a-distributed-job-scheduler)
 - [Design a Scalable Notification Service](https://blog.algomaster.io/p/design-a-scalable-notification-service)
 - [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
