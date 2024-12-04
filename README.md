@@ -74,7 +74,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 ## ✅ How to Answer a System Design Interview Problem
 <img src="diagrams/interview-template.png" width="400" height="250">
 
-### [Read the Full Article](https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem)
+### [Read the Full Article](https://docs.google.com/document/d/1mcN22MFCxzO_NSR8NvYS7hiviCgCWz9i2LzmKb16mAo/edit?usp=sharing)
 
 ## WebSocket
 - [WebSocket](https://docs.google.com/document/d/1Xe6HE5_XClHuaJVEQsKv_oFhVNvxWJgpl3lJv3hA3pI/edit?usp=sharing)
