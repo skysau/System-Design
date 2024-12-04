@@ -4,7 +4,8 @@
 
 This repository contains free resources to learn System Design concepts and prepare for interviews.
 
-Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE System Design Interview Handbook** in your inbox.
+## 📌 Ruby Notes
+- [Ruby Notes](https://docs.google.com/document/d/10jmsRpbZ7z0EQCdiIz0z52YKTY3FkhDlWwv_GncAZOE/edit?usp=sharing)
 
 ## 📌 System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
